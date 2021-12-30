@@ -12,7 +12,8 @@ namespace courseCsharp
         {
             Console.WriteLine("goodbye World!");
             Console.ReadKey();
-            //i need help!
+            /*i need help!
+            ok i got the help*/
         }
     }
 }
