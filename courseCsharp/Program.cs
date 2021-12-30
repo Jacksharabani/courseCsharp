@@ -10,6 +10,8 @@ namespace courseCsharp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("goodbye World!");
+            Console.ReadKey();
         }
     }
 }
