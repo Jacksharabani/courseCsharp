@@ -10,7 +10,7 @@ namespace courseCsharp
     {
         static void Main(string[] args)
         {
-            int x = 1;
+            /*int x = 1;
             int y = 2;
             int z = 3;
             string a = "Hello";
@@ -18,6 +18,14 @@ namespace courseCsharp
             string c = " My name is who";
 
             Console.WriteLine(a + b + c + " slim shady" + z);
+            Console.ReadKey();*/
+
+            int age = 36;
+            char name = 'J';
+            Double result = 80;
+            bool gender = false;
+
+            Console.WriteLine("my name is " + name + " i am " + age + " years old " + "i am female = " + gender + " and my test result is " + result);
             Console.ReadKey();
 
 
