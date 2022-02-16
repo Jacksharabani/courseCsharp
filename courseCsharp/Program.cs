@@ -10,9 +10,25 @@ namespace courseCsharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("goodbye World!");
+            int x = 1;
+            int y = 2;
+            int z = 3;
+            string a = "Hello";
+            string b = " My name is what";
+            string c = " My name is who";
+
+            Console.WriteLine(a + b + c + " slim shady" + z);
             Console.ReadKey();
-            //i need help!
+
+
+
+            //Console.WriteLine(x + y + z + 4);
+            //Console.ReadKey();
+            
+            
+            //Console.WriteLine("goodbye World!");
+            //Console.ReadKey();
+            
         }
     }
 }
